@@ -50,3 +50,10 @@ def crea_equipos(gente,miembros):
     return listas
 
 pprint.pprint(crea_equipos(alumnos,30))
+
+def prueba():
+    pass
+#Esto es una función inútil.
+
+
+
